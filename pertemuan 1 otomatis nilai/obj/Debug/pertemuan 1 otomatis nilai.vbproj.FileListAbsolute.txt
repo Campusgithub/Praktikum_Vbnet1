@@ -1,0 +1,20 @@
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.exe.config
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.exe
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.pdb
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.xml
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.vbproj.GenerateResource.Cache
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.exe
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.xml
+C:\Tugas VB.net\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.pdb
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.exe.config
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.exe
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.xml
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.pdb
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.exe
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.pdb
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\bin\Debug\pertemuan 1 otomatis nilai.xml
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.vbproj.GenerateResource.Cache
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.vbproj.AssemblyReference.cache
+C:\Visual Studio2022_project\pertemuan 1 otomatis nilai\pertemuan 1 otomatis nilai\obj\Debug\pertemuan 1 otomatis nilai.vbproj.CoreCompileInputs.cache
